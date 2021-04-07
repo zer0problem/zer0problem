@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Specialization!"
-date:   2021-03-31 12:35:47 +0100
+date:   2021-03-31 12:35:47 +0200
 categories: specialization update
 ---
 My specialization is about procedural generation, I chose it because I felt I had enough back-end references and wanted to do something more visual and creative.
@@ -10,8 +10,8 @@ The goal was to make a world that would lay the foundation for level designers t
 
 On other notes, I'm counting each day as about 4 hours of work as we're doing this half time, I'm not counting time I've spent collecting and presenting other things for my portfolio. I've been using godot, because I wanted to learn some of the math 
 
-Reference image genorously provided by [Drilon](https://drilonsadiku.artstation.com/)
-![Reference](/images/spec_ref_art.gif)  
+Reference image generously provided by [Drilon](https://drilonsadiku.artstation.com/)
+![Reference](/images/spec_ref_art.png)  
 
 Day 1  
 I focused very much on getting the proper shape of the floating islands.

@@ -12,9 +12,16 @@ Tommi Israelsson
 
 Social
 -----------
-[tommi.israelsson@gmail.com](mailto:tommi.israelsson@gmail.com)  
-[twitter](https://twitter.com/IsraelssonTommi)  
-[github](https://github.com/zer0problem)  
+<div class="grid" style="display:flex;">
+    <div class="col-1-2" style="flex: 1;">
+        <img src="images/tommi.png">
+    </div>
+    <div class="col-1-2" style="flex: 3; margin-left:20px;">
+        Mail: <a href="mailto:tommi.israelsson@gmail.com">tommi.israelsson@gmail.com</a><br/>
+        Twitter: <a href="https://twitter.com/IsraelssonTommi">IsraelssonTommi</a><br/>
+        Github: <a href="https://github.com/zer0problem">zer0problem</a>
+    </div>
+</div>
 
 Achievements
 -----------
@@ -33,11 +40,13 @@ for project 6 it supported
 
 for project 7 I added support for
 * spot lights with cookies & shadows [example](images/project7_spotlight_shadow_and_cookie.webm)
+* tiled shading with point lights
 * orderered transparency
 * backend of a node scripting system [explanation TODO](node_system)
 * small parts of the frontend for our script system
 * large parts of physx implementation
 * multiple materials from the same model
+* different rendering technique used per-material, forward or deferred
 
 What project 8 will bring is still in the future! I'm sure it will be neat.
 
