@@ -19,6 +19,7 @@ Social
     <div class="col-1-2" style="flex: 3; margin-left:20px;">
         Mail: <a href="mailto:tommi.israelsson@gmail.com">tommi.israelsson@gmail.com</a><br/>
         Twitter: <a href="https://twitter.com/IsraelssonTommi">IsraelssonTommi</a><br/>
+        LinkedIn: <a href="https://www.linkedin.com/in/tommi-israelsson-426832209/">Tommi Israelsson</a><br/>
         Github: <a href="https://github.com/zer0problem">zer0problem</a>
     </div>
 </div>
@@ -29,7 +30,7 @@ Achievements
 Made the game engine used in project 6 and onwards.
 
 for project 6 it supported
-* PBR rendering (see other things, everyone did this, nothing special)
+* PBR rendering (everyone did this, nothing special)
 * instancing
 * deferred and forward rendering
 * skeletal animations
