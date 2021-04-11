@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Specialization Final!"
+title:  "Specialization finale!"
 date:   2021-04-09 13:52:22 +0200
 categories: specialization update
 ---

@@ -7,43 +7,26 @@ title: "Home"
 permalink: /
 ---
 
-Tommi Israelsson
-=======
-
-Social
------------
-<div class="grid" style="display:flex;">
-    <div class="col-1-2" style="flex: 1;">
-        <img src="images/tommi.png">
-    </div>
-    <div class="col-1-2" style="flex: 3; margin-left:20px;">
-        Mail: <a href="mailto:tommi.israelsson@gmail.com">tommi.israelsson@gmail.com</a><br/>
-        Twitter: <a href="https://twitter.com/IsraelssonTommi">IsraelssonTommi</a><br/>
-        LinkedIn: <a href="https://www.linkedin.com/in/tommi-israelsson-426832209/">Tommi Israelsson</a><br/>
-        Github: <a href="https://github.com/zer0problem">zer0problem</a>
-    </div>
-</div>
-
 Achievements
 -----------
 8 game projects in TGA.  
 Made the game engine used in project 6 and onwards.
 
-for project 6 it supported
+for [project 6](/project/6/) it supported
 * PBR rendering (everyone did this, nothing special)
 * instancing
 * deferred and forward rendering
 * skeletal animations
-* shadow mapping with directional lights [example](images/project6_shadows_deferred.png)
+* shadow mapping with directional lights <a class="link" href="/images/project6_shadows_deferred.png">example<img class="preview" src="/images/project6_shadows_deferred.png"></a> 
 * background resource streaming
-* projected decals [example](images/project6_decal_uneven_surface.webm)
-* VFX Node System [example](images/project6_effect_editor.png) and [result](images/project6_effect_editor_result.webm)
+* projected decals <a class="link" href="/images/project6_decal_uneven_surface.gif">example<img class="preview" src="/images/project6_decal_uneven_surface.gif"></a>
+* VFX Node System <a class="link" href="/images/project6_effect_editor.png">example<img class="preview" src="/images/project6_effect_editor.png"></a> and <a class="link" href="/images/project6_effect_editor_result.gif">result<img class="preview" src="/images/project6_effect_editor_result.gif"></a>
 
-for project 7 I added support for
-* spot lights with cookies & shadows [example](images/project7_spotlight_shadow_and_cookie.webm)
+for [project 7](/project/7/) I added support for
+* spot lights with cookies & shadows <a class="link" href="/images/project7_spotlight_shadow_and_cookie.gif">result<img class="preview" src="/images/project7_spotlight_shadow_and_cookie.gif"></a>
 * tiled shading with point lights
 * orderered transparency
-* backend of a node scripting system [explanation TODO](node_system)
+* backend of a node scripting system [explanation TODO](/node_system/)
 * small parts of the frontend for our script system
 * large parts of physx implementation
 * multiple materials from the same model

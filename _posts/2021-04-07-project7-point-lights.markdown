@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Point Lights!"
+title:  "Tiled point lights."
 date:   2021-04-07 13:10:47 +0200
 categories: project7 update
 ---

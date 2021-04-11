@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Specialization!"
+title:  "Specialization project."
 date:   2021-03-31 12:35:47 +0200
 categories: specialization update
 ---
@@ -15,7 +15,7 @@ Reference image generously provided by [Drilon](https://drilonsadiku.artstation.
 
 Day 1  
 I focused very much on getting the proper shape of the floating islands.
-Creating one blob then splitting it seemed like a good choice to get the islands to seem connected, much like when the continents split during pangea. That way the borders stayed the same shape and matched like puzzle pieces.
+Creating one blob then splitting it seemed like a good choice to get the islands to seem connected, much like when the continents split during pangea. That way the borders stayed the same shape and matched like puzzle pieces.  
 ![Day1 result](/images/spec_day1_1.gif)  
 
 Day 2  
@@ -26,7 +26,7 @@ If they matched the original range of the border mesh, they were on the edge.
 If they were on the edge, they were expected to go counterclockwise along the original range of indices. This was done by comparing the order of indicies and required no look-up on verticies or adjecent points on the original mesh.
 If they were on the edge of the mesh, but the indices went in the opposite direction, they were outside the target mesh, and gently asked to leave from the result.  
 
-I also applied a simplex noise to get the height of it, using the same simplex noise I could also get the normals. It was one merged heightmap to further display the world as one connected world and not a series of random floating islands.
+I also applied a simplex noise to get the height of it, using the same simplex noise I could also get the normals. It was one merged heightmap to further display the world as one connected world and not a series of random floating islands.  
 ![Day2 result](/images/spec_day2_1.gif)  
 
 Day 3  
