@@ -26,10 +26,19 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is where I put things I've made.
 self_description: >-
   <img src="/images/tommi.png"/>
+  Contact<br/>
   Mail: <a href="mailto:tommi.israelsson@gmail.com">tommi.israelsson@gmail.com</a><br/>
   Twitter: <a href="https://twitter.com/IsraelssonTommi">IsraelssonTommi</a><br/>
   LinkedIn: <a href="https://www.linkedin.com/in/tommi-israelsson-426832209/">Tommi Israelsson</a><br/>
-  Github: <a href="https://github.com/zer0problem">zer0problem</a>
+  Github: <a href="https://github.com/zer0problem">zer0problem</a><br/>
+  <br/>
+  Performance<br/>
+  <a href="/specialization/update/2021/04/09/specialization-final.html">Procedural content generation</a><br/>
+  Player interactions<br/>
+  Student Mentor<br/>
+  <br/>
+  <a href="/other/">Other projects</a>
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tommi.israelsson
