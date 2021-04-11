@@ -114,9 +114,9 @@ Without culling lights on the CPU, it takes about 5ms now. Reasonable now.
 
 It's now done "right". A few things I would like to do for improvements are.  
 Completed:
-* Split Position and Color in different buffers on the lights, better data locality since we're not accessing position until shading. 4ms now.
-Considered or NYI:
-* Near + Far plane on tile culling to prevent lights outside the depth from passing the cull.
+* Split Position and Color in different buffers on the lights, better data locality since we're not accessing position until shading. 4ms now.  
+* Near + Far plane on tile culling to prevent lights outside the depth from passing the cull.  
+* Use the culling result for Forward+ rendering
 
 The specs I've been running this on are
 2560x1440 resolution
