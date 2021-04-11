@@ -27,7 +27,7 @@ for [project 7](/project/7/) I added support for
 * tiled deferred shading with point lights [explanation](/project7/update/2021/04/07/project7-point-lights.html)
 * forward+ for light culling to the forward pass
 * orderered transparency
-* backend of a node scripting system [explanation TODO](/node_system/)
+* backend of a node scripting system [explanation](/project7/update/2021/04/11/node-system.html)
 * small parts of the frontend for our script system
 * large parts of physx implementation
 * multiple materials from the same model

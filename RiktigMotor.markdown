@@ -14,7 +14,7 @@ Supported features (sorted by how cool I think they are)
 * (P7) tiled deferred shading with point lights [explanation](/project7/update/2021/04/07/project7-point-lights.html)
 * (P7) forward+ rendering
 * (P7) spot lights with cookies & shadows <a class="link" href="/images/project7_spotlight_shadow_and_cookie.gif">example<img class="preview" src="/images/project7_spotlight_shadow_and_cookie.gif"></a>
-* (P7) Node scripting system [backend explanation TODO](/node_system/)
+* (P7) Node scripting system [backend explanation](/project7/update/2021/04/11/node-system.html)
 * TODO more here
 
 These third party libraries and technologies are used
