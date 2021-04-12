@@ -19,6 +19,7 @@ Pretty cool
 * (P7) Node scripting system [backend explanation](/project7/update/2021/04/11/node-system.html)
 * (P7) Frustum Culling, made by [Andreas](https://www.andreasrunsjo.com/cullingsystem)
 Still cool, but less so
+* (P7) 3D Audio
 * (P7) "Ordered" transparency
 * (P6) Deferred and Forward Rendering 
 * (P6) Particle Systems
