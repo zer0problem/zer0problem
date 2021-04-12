@@ -16,11 +16,12 @@ Project 5 - Carolina
 
 Contributions to this project
 -----------
-TODO
+During this project I set up the GameObject & Component system, Sprites and colliders to set up some base. Using what I learned in earlier projects about what worked, I made a new sprite system with support for normalmaps. I also dealt with the player items & it's usage in the game world.  
+After the initial setup of base systems I worked almost exclusively on the player and its items/tools used. 
 
 What I learned
 -----------
-TODO
+Here I spent more time working on over-arching systems, together with other people more than I worked in earlier projects, it was a pretty fun experience and lots of programming ideas were exchanged in a good way.
 
 
 
@@ -34,7 +35,7 @@ Here we used a modified version of project 3s sprite wrapper, not a lot of setup
 
 What I learned
 -----------
-TODO
+Here I learned about communication and a bit about trying to reuse too much. You cannot fit a square peg into a round hole..  
 
 
 

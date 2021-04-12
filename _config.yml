@@ -37,6 +37,8 @@ self_description: >-
   Performance<br/>
   Student Mentor<br/>
   <br/>
+  Engine: <a href="/riktig_motor/">RiktigMotor</a><br/>
+  <a href="/riktig_motor/"><img width=120px src="/images/RiktigMotor2.png"/></a><br/>
   <a href="/other/">Other projects</a>
 
 baseurl: "" # the subpath of your site, e.g. /blog

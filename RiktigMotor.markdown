@@ -11,13 +11,46 @@ I did not think this name would stick.
 There will be markings such as P6, P7 och P8 depending on what project that added it.
 
 Supported features (sorted by how cool I think they are)
+-----------
+Pretty cool  
 * (P7) tiled deferred shading with point lights [explanation](/project7/update/2021/04/07/project7-point-lights.html)
 * (P7) forward+ rendering
 * (P7) spot lights with cookies & shadows <a class="link" href="/images/project7_spotlight_shadow_and_cookie.gif">example<img class="preview" src="/images/project7_spotlight_shadow_and_cookie.gif"></a>
 * (P7) Node scripting system [backend explanation](/project7/update/2021/04/11/node-system.html)
+* (P7) Frustum Culling, made by [Andreas](https://www.andreasrunsjo.com/cullingsystem)
+Still cool, but less so
+* (P7) "Ordered" transparency
+* (P6) Deferred and Forward Rendering 
+* (P6) Particle Systems
+* (P6) PBR
 * TODO more here
 
+Other notes
+-----------
+Render order
+* Culling by [Andreas](https://www.andreasrunsjo.com/cullingsystem) includes spotlight shadows
+* Deferred rendering for majority of models
+* Render opaque models to spotlights shadowmap
+* Tiled shading & culling point lights for forward+
+* Spotlight shading (not yet tiled, it's on my list)
+* Sort for transparent objects
+* Sort includes particles
+* Particles are unlit (NYI lit particles)
+* Lets particles be sorted properly with windows etc
+* Forward+ pass for transparents & particles(Unlit)
+* Post-processing
+* Immediate Sprites & Text rendering
+* ImGui & other debug overlays
+* Present!
+
+Current focus
+-----------
+One of the things I wanna focus on is transparent objects, I've had some fights with getting it right for our artists, I've been looking with one eye at different order independent transparency solutions and other approximations for a better result.  
+Another thing I want is faster spotlights and shadows, perhaps look closer at clustered or hybrid binning of lights and doing less in the deferred stage of rendering, it is rather bandwidth consuming, and I think an improved forward renderer could outshine our current default-to-deferred render order.  
+After all, the performance can never be too good and the quality is always lower than you want, constant pushing is required!  
+
 These third party libraries and technologies are used
+-----------
 * (P6) DirectX11 for rendering
 * (P6) [entt](https://github.com/skypjack/entt) as an entity component system 
 * (P6) [assimp](http://assimp.org/) for model loading
