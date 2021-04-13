@@ -1,35 +1,35 @@
 ---
-layout: page
+layout: default
 title: RiktigMotor
 permalink: /riktig_motor/
 ---
 
 RiktigMotor
 ===========
-I did not think this name would stick.  
 
-There will be markings such as P6, P7 och P8 depending on what project that added it.
-
-Supported features (sorted by how cool I think they are)
+Supported features
 -----------
-Pretty cool  
-* (P7) tiled deferred shading with point lights [explanation](/project7/update/2021/04/07/project7-point-lights.html)
-* (P7) forward+ rendering
-* (P7) spot lights with cookies & shadows <a class="link" href="/images/project7_spotlight_shadow_and_cookie.gif">example<img class="preview" src="/images/project7_spotlight_shadow_and_cookie.gif"></a>
-* (P7) Node scripting system [backend explanation](/project7/update/2021/04/11/node-system.html)
-* (P7) Frustum Culling, made by [Andreas](https://www.andreasrunsjo.com/cullingsystem)
-Still cool, but less so
-* (P7) 3D Audio
-* (P7) "Ordered" transparency
-* (P6) Deferred and Forward Rendering 
-* (P6) Particle Systems
-* (P6) PBR
+Since [Project 7](/project/7/)
+* Tiled deferred shading with point lights [explanation](/project7/update/2021/04/07/project7-point-lights.html)
+* Forward+ rendering
+* Spot lights with cookies & shadows <a class="link" href="/images/project7_spotlight_shadow_and_cookie.gif">example<img class="preview" src="/images/project7_spotlight_shadow_and_cookie.gif"></a>
+* Node scripting system [backend explanation](/project7/update/2021/04/11/node-system.html)
+* Frustum Culling, made by [Andreas](https://www.andreasrunsjo.com/cullingsystem)
+* 3D Audio
+* Physics using physx
+* "Ordered" transparency  
+
+Since [Project 6](/project/6/)
+* Deferred and Forward Rendering 
+* Particle Systems
+* PBR
+* Skeletal animations
 * TODO more here
 
 Other notes
 -----------
 Render order
-* Culling by [Andreas](https://www.andreasrunsjo.com/cullingsystem) includes spotlight shadows
+* Culling by [Andreas](https://www.andreasrunsjo.com/cullingsystem), includes spotlight shadows
 * Deferred rendering for majority of models
 * Render opaque models to spotlights shadowmap
 * Tiled shading & culling point lights for forward+
@@ -52,6 +52,7 @@ After all, the performance can never be too good and the quality is always lower
 
 These third party libraries and technologies are used
 -----------
+There will be markings such as P6, P7 och P8 depending on what project that added it.
 * (P6) DirectX11 for rendering
 * (P6) [entt](https://github.com/skypjack/entt) as an entity component system 
 * (P6) [assimp](http://assimp.org/) for model loading
