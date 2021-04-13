@@ -43,9 +43,9 @@ self_description: >-
   <a href="/project/7/">Project Rothera</a><br/>
   <a href="/project/6/">Eclipse</a><br/>
   <a href="/old_projects/">Older</a><br/>
-  Other:<br/>
+  <br/>
+  <a href="/other/">Other projects</a><br/>
   <a href="/posts/">Posts</a><br/>
-  <a href="/other/">Other</a><br/>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tommi.israelsson
