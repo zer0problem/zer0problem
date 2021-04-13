@@ -4,8 +4,7 @@ title: Pivot Studio 2.0
 permalink: /pivot_studio2/
 ---
 
-PivotStudio2.0
-===========
+![Logo](/images/pivot_studio2.png)
 
 This is the group for our second year at TGA, it's called 2.0 since we had a few additions between [Project 6](/project/6/) and [Project 7](/project/7/).
 
