@@ -9,8 +9,8 @@ permalink: /
 
 Accomplishments
 -----------
-7 game projects in TGA so far.
-Worked on the game engine used in project 6 and subsequent projects.
+During my studies at [The Game Assembly](https://www.thegameassembly.com/) as a game programmer I've been a part of 7 game projects in so far. Here I've been working together with other students, game programmers, level designers and graphical artists, usually itäs been in groups of about 11-13 people.  
+Lately I've been working on the game engine used in project 6 and subsequent projects.
 
 for [project 7](/project/7/) I added support for
 * spot lights with cookies & shadows <a class="link" href="/images/project7_spotlight_shadow_and_cookie.gif">example<img class="preview" src="/images/project7_spotlight_shadow_and_cookie.gif"></a>
@@ -33,14 +33,14 @@ for [project 6](/project/6/) it supported
 * projected decals <a class="link" href="/images/project6_decal_uneven_surface.gif">example<img class="preview" src="/images/project6_decal_uneven_surface.gif"></a>
 * VFX Node System <a class="link" href="/images/project6_effect_editor.png">example<img class="preview" src="/images/project6_effect_editor.png"></a> and <a class="link" href="/images/project6_effect_editor_result.gif">result<img class="preview" src="/images/project6_effect_editor_result.gif"></a>
 
-What project 8 will bring is still in the future! I'm sure it will be neat.
+We still have one more project left to complete, what it will bring is still in the future! I'm sure it will be neat.
 
 There's also been 5 earlier projects that you can look at here.  
 [First year projects](/old_projects/)
 
 Skills
 -----------
-Most comfortable in C++ and visual studio but not afraid to branch out as needed.  
+I'm most comfortable in C++ and visual studio but not afraid to branch out as needed.  
 Experience in other programming languages allow me to quickly pick up new languages if needed.  
 Performance aware, knows how to use the cache and store data efficiently, when to move data and when you can skip moving it, both in small enclosed functions and when using and accessing larger systems.  
 Some experience with SIMD instructions for micro-optimizations.  

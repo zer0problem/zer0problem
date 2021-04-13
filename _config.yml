@@ -39,9 +39,13 @@ self_description: >-
   <br/>
   Group: <a href="/pivot_studio2/">Pivot Studio 2.0</a><br/>
   Engine: <a href="/riktig_motor/">RiktigMotor</a><br/>
-  <a href="/riktig_motor/"><img width=120px src="/images/RiktigMotor2.png"/></a><br/>
-  <a href="/other/">Other projects</a>
-
+  TGA Projects: <br/>
+  <a href="/project/7/">Project Rothera</a><br/>
+  <a href="/project/6/">Eclipse</a><br/>
+  <a href="/old_projects/">Older</a><br/>
+  <br/>
+  <a href="/other/">Other projects</a><br/>
+  <a href="/posts/">Posts</a><br/>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tommi.israelsson
