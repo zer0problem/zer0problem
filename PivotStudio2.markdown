@@ -14,7 +14,7 @@ Programmers
 -----------
 [Alex Hansen](https://papagreger.github.io/alexhansen/)  
 [Andreas Runsjö](https://www.andreasrunsjo.com/)  
-[Anton Byström](https://antonbys.github.io/)  
+[Anton Byström](https://antonbys.wixsite.com/portfolio)  
 [Pontus Svahn](https://eldsflame.github.io/eldsflame/)  
 [Tommi Israelsson](/)  
 
