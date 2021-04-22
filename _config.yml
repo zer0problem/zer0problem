@@ -45,7 +45,6 @@ self_description: >-
   <a href="/old_projects/">Older</a><br/>
   <br/>
   <a href="/other/">Other projects</a><br/>
-  <a href="/posts/">Posts</a><br/>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tommi.israelsson
