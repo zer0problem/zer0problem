@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Realtime performance"
+title:  "Realtime performance profiling"
 date:   2021-04-19 10:06:21 +0200
 categories: project7 update
 ---
