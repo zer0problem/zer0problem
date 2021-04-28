@@ -9,7 +9,7 @@ permalink: /
 
 Accomplishments
 -----------
-During my studies at [The Game Assembly](https://www.thegameassembly.com/) as a game programmer I've been a part of 7 game projects in so far. Here I've been working together with other students, game programmers, level designers and graphical artists, usually itäs been in groups of about 11-13 people.  
+During my studies at [The Game Assembly](https://www.thegameassembly.com/) as a game programmer I've been a part of 7 game projects in so far. Here I've been working together with other students, game programmers, level designers and graphical artists, usually it's been in groups of about 11-13 people.  
 Lately I've been working on the game engine used in project 6 and subsequent projects.
 
 for [project 7](/project/7/) I added support for
