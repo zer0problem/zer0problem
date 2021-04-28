@@ -49,15 +49,15 @@ I can read and understand C++ error messages.
 Relevant Education
 -----------
 2019-2022 TGA Game Programming  
-programming languages: C++, C#, hlsl  
+programming languages: C++, C#, hlsl, glsl  
 
 Relevant Experience
 -----------
 Small hobby projects since 2010  
-programming languages used: C++, Rust, C#, Lua, python, JS & PHP  
+programming languages used: C++, hlsl, Rust, glsl, C#, Lua, python, JS & PHP  
 tools used: visual studio, vscode, ZeroBrane Studio  
 engines used: unreal, unity, godot, source 2 (dota 2 mods)  
-APIs used: DirectX11, OpenGL  
+APIs used: DirectX11, OpenGL
 
 Languages (non-programming)
 -----------

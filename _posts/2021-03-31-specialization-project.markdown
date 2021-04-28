@@ -3,6 +3,7 @@ layout: post
 title:  "Specialization project."
 date:   2021-03-31 12:35:47 +0200
 categories: specialization update
+author: Tommi
 ---
 My specialization is about procedural generation, I chose it because I felt I had enough back-end references and wanted to do something more visual and creative.
 

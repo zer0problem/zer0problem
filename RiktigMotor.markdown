@@ -24,7 +24,7 @@ Since [Project 6](/project/6/)
 * Particle Systems
 * PBR
 * Skeletal animations
-* TODO more here
+* Directional Shadows
 
 Other notes
 -----------

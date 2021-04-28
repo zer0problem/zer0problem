@@ -3,6 +3,7 @@ layout: post
 title:  "Backend of our node system."
 date:   2021-04-11 21:21:21 +0200
 categories: project7 update
+author: Tommi
 ---
 
 Summary  
@@ -57,7 +58,7 @@ Another bonus of this is that we get access to C++ callstack and don't have to w
 
 For construction and management we need some info about types for this  
 ![type_metadata](/images/nodesystem/type_metadata.png)  
-In addition to it's structors this can contain anything you need to properly store the thing and fun meta-data about it like a display-friendly name, what types it can be converted to or its mothers maiden name.  
+In addition to it's destructor and different constructors this can contain anything you need to properly store the thing and fun meta-data about it like a display-friendly name, what types it can be converted to or its mothers maiden name.  
 
 We need to have a list of all the members in a script that aren't trivially constructible/copy-able.  
 There's also a thing we can do with seperating things that still need to be default constructed.  
