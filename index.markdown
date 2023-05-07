@@ -9,8 +9,17 @@ permalink: /
 
 Accomplishments
 -----------
-During my studies at [The Game Assembly](https://www.thegameassembly.com/) as a game programmer I've been a part of 7 game projects in so far. Here I've been working together with other students, game programmers, level designers and graphical artists, usually it's been in groups of about 11-13 people.  
-Lately I've been working on the game engine used in project 6 and subsequent projects.
+During my time at Thunderful Games I have worked on different projects at different phases in development, including porting Wavetale to PC and consoles such as PS4 and Nintendo Switch.
+
+During my studies at [The Game Assembly](https://www.thegameassembly.com/) as a game programmer I were a part of 8 game projects. There I worked together with other students, game programmers, level designers and graphical artists, usually it's been in groups of about 11-13 people.  
+During the final year I've worked on the game engine used in project 6 and subsequent projects.
+
+for project 8 I added support for
+* contact shadows
+* tone mapping
+* wind shader
+
+but most of my time in project 8 was spent on optimizing performance, fixing issues and improving the workflow by updating our debugging tools.
 
 for [project 7](/project/7/) I added support for
 * spot lights with cookies & shadows <a class="link" href="/images/project7_spotlight_shadow_and_cookie.gif">example<img class="preview" src="/images/project7_spotlight_shadow_and_cookie.gif"></a>
@@ -33,31 +42,24 @@ for [project 6](/project/6/) it supported
 * projected decals <a class="link" href="/images/project6_decal_uneven_surface.gif">example<img class="preview" src="/images/project6_decal_uneven_surface.gif"></a>
 * VFX Node System <a class="link" href="/images/project6_effect_editor.png">example<img class="preview" src="/images/project6_effect_editor.png"></a> and <a class="link" href="/images/project6_effect_editor_result.gif">result<img class="preview" src="/images/project6_effect_editor_result.gif"></a>
 
-We still have one more project left to complete, what it will bring is still in the future! I'm sure it will be neat.
-
 There's also been 5 earlier projects that you can look at here.  
 [First year projects](/old_projects/)
 
 Skills
 -----------
-I'm most comfortable in C++ and visual studio but not afraid to branch out as needed.  
+I have most recenly worked in Unity and C# but I am also comfortable with C++ and not afraid to learn new things.  
 Experience in other programming languages allow me to quickly pick up new languages if needed.  
 Performance aware, knows how to use the cache and store data efficiently, when to move data and when you can skip moving it, both in small enclosed functions and when using and accessing larger systems.  
 Some experience with SIMD instructions for micro-optimizations.  
-I can read and understand C++ error messages.
-
-Relevant Education
------------
-2019-2022 TGA Game Programming  
-programming languages: C++, C#, hlsl, glsl  
 
 Relevant Experience
 -----------
-Small hobby projects since 2010  
-programming languages used: C++, hlsl, Rust, glsl, C#, Lua, python, JS & PHP  
+2021-now Work: Thundeful Games Programmer  
+2019-2022 School: TGA Game Programming  
+programming languages: C++, C#, hlsl, glsl, lua, python  
 tools used: visual studio, vscode, ZeroBrane Studio  
 engines used: unreal, unity, godot, source 2 (dota 2 mods)  
-APIs used: DirectX11, OpenGL
+Graphics APIs used: DirectX11, OpenGL
 
 Languages (non-programming)
 -----------
