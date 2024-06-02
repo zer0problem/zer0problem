@@ -125,7 +125,7 @@ Then there's things that I would like to explore a bit more but requires larger 
 
 Other things like CSG subtractions for collisions and affecting space & movement are things I've played around with as well, but as of right now I don't have any plans on writing about anything other than the rendering of the portals.
 
-The source code of the modified Godot fork can be found [here](https://github.com/zer0problem/godot)
+The source code of the modified Godot fork can be found [here](https://github.com/zer0problem/godot).
 It also includes some changes I've made for different portal related reasons than mentioned here.  
 
 If you have feedback or comments about this post, you can reach me on twitter [@IsraelssonTommi](http://twitter.com/IsraelssonTommi)
