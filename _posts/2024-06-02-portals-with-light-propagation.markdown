@@ -28,7 +28,7 @@ The basic method is that you move the extra camera from the where the portals in
 It can look something like this.
 ![simple_viewport_portal](/images/portals/simple_viewport_portal.png)  
 
-This naive method uses a viewport for each portal. This can be optimized by sharing space on a viewport and using a viewport pool instead of one per portal if you have many portals. Another optimization would be to do something else that does not use extra viewports. That's is foreshadowing for later.
+This naive method uses a viewport for each portal. This can be optimized by sharing space on a viewport and using a viewport pool instead of one per portal if you have many portals. Another optimization would be to do something else that does not use extra viewports. That's foreshadowing for later.
 
 But for our goals, this is seamless enough for now, we can make a more optimized version later, for now let's continue.
 
