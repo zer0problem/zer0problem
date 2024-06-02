@@ -4,6 +4,7 @@ title: Portal light propagation part 1
 date:   2024-06-02 17:10:00 +0200
 categories: portals update
 author: Tommi
+permalink: /portals1/
 ---
 
 Summary  
