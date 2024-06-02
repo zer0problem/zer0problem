@@ -9,7 +9,7 @@ permalink: /
 
 Relevant Work Experience
 -----------
-2021 August -> now  Thundeful Games Programmer  
+2021 August -> 2024 April  Thundeful Games Programmer  
 
 During my time at Thunderful Games I have worked on different projects at different phases in development, including porting Wavetale to PC and consoles such as PS4 and Nintendo Switch.
 
