@@ -16,7 +16,7 @@ To provide the simplest solution I could find for these problems, explain why th
 
 What engine to use?
 -----------
-The main factor is that I realized I'd have to modify the engine and I don't have access to the source code of Unity and my educated guess is that the rendering source of Unreal is more complicated than Godot. I could also use RiktigMotor, but that would most likely take more time to relearn than I'd spend just doing it in something else.
+The main factor is that I realized I'd have to modify the engine and I don't have access to the source code of Unity and my educated guess is that the rendering source of Unreal is more complicated than Godot.
 
 The second reason is iteration time. Compiling Godot is fast and reloading scripts is pretty much instant, even while testing.
 
