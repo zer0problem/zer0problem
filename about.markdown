@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![me_irl](images/tori.png)
+![me_irl](images/tori.jpg)
 Mail: [tori.israelsson@gmail.com](mailto::tori.israelsson@gmail.com)
 Bluesky: [ToriWithI](https://bsky.app/profile/toriwithi.bsky.social)
 Twitter: [ToriWithI](https://twitter.com/ToriWithI)
@@ -12,7 +12,7 @@ LinkedIn: [Tori Israelsson](https://www.linkedin.com/in/tori-israelsson-42683220
 Github: [Zer0problem](https://github.com/zer0problem)
 <div class="grid" style="display:flex;">
     <div class="col-1-2" style="flex: 1;">
-        <img width=240px src="images/tori.png">
+        <img width=240px src="images/tori.jpg">
     </div>
     <div class="col-1-2" style="flex: 3; margin-left:20px;">
         Mail: <a href="mailto:tori.israelsson@gmail.com">tori.israelsson@gmail.com</a><br/>
