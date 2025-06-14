@@ -26,4 +26,4 @@ What I learned
 -----------
 This project, for me, has been about scaling the engine for larger projects. Expanding on the existing engine, I learned a lot about expanding existing code and making code that would be sustainable through several projects.
 
-I've been reading about different optimizations and libraries, such as [tiled rendering](https://tommi-israelsson.se/project7/update/2021/04/07/project7-point-lights.html) and nvidias physx framework for the physics of the game.
+I've been reading about different optimizations and libraries, such as [tiled rendering](https://tori-israelsson.se/project7/update/2021/04/07/project7-point-lights.html) and nvidias physx framework for the physics of the game.

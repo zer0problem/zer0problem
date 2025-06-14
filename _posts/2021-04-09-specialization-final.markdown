@@ -3,7 +3,7 @@ layout: post
 title:  "Specialization finale!"
 date:   2021-04-09 13:52:22 +0200
 categories: specialization update
-author: Tommi
+author: Tori
 ---
 
 Finally decided to add some ground to it.  

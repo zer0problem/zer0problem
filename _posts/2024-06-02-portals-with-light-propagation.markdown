@@ -3,7 +3,7 @@ layout: post
 title: Portal light propagation part 1
 date:   2024-06-02 17:10:00 +0200
 categories: portals update
-author: Tommi
+author: Tori
 permalink: /portals1/
 ---
 
@@ -129,4 +129,4 @@ Other things like CSG subtractions for collisions and affecting space & movement
 The source code of the modified Godot fork can be found [here](https://github.com/zer0problem/godot).
 It also includes some changes I've made for different portal related reasons than mentioned here.  
 
-If you have feedback or comments about this post, you can reach me on twitter [@IsraelssonTommi](http://twitter.com/IsraelssonTommi)
+If you have feedback or comments about this post, you can reach me on bluesky [ToriWithI](https://bsky.app/profile/toriwithi.bsky.social)

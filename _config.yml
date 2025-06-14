@@ -18,35 +18,25 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tommi Israelsson
-email: tommi.israelsson@gmail.com
+title: Tori Israelsson
+email: tori.israelsson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Game Programmer at Thunderful Games.  
+  Game Programmer at Embark Studios.  
   This is where I put things I've made.
 self_description: >-
-  <img src="/images/tommi.png"/>
+  <img src="/images/tori.png"/>
   Contact<br/>
-  Mail: <a href="mailto:tommi.israelsson@gmail.com">tommi.israelsson@gmail.com</a><br/>
-  Twitter: <a href="https://twitter.com/IsraelssonTommi">IsraelssonTommi</a><br/>
-  LinkedIn: <a href="https://www.linkedin.com/in/tommi-israelsson-426832209/">Tommi Israelsson</a><br/>
+  Mail: <a href="mailto:tori.israelsson@gmail.com">tori.israelsson@gmail.com</a><br/>
+  Bluesky: <a href="https://bsky.app/profile/toriwithi.bsky.social">ToriWithI</a><br/>
+  Twitter: <a href="https://twitter.com/ToriWithI">ToriWithI</a><br/>
+  LinkedIn: <a href="https://www.linkedin.com/in/tori-israelsson-426832209/">Tori Israelsson</a><br/>
   Github: <a href="https://github.com/zer0problem">zer0problem</a><br/>
   <br/>
-  Console development<br/>
-  <a href="/specialization/update/2021/04/09/specialization-final.html">Procedural content generation</a><br/>
-  Backend programming<br/>
+  UI/UX programming<br/>
+  Graphics programming<br/>
   Student Mentor<br/>
-  <br/>
-  Group: <a href="/pivot_studio2/">Pivot Studio 2.0</a><br/>
-  Engine: <a href="/riktig_motor/">RiktigMotor</a><br/>
-  TGA Projects: <br/>
-  <a href="/project/7/">Project Rothera</a><br/>
-  <a href="/project/6/">Eclipse</a><br/>
-  <a href="/old_projects/">Older</a><br/>
-  <br/>
-  <a href="/other/">Other projects</a><br/>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tommi.israelsson
 github_username: zer0problem
 
 

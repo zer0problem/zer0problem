@@ -9,7 +9,11 @@ permalink: /
 
 Relevant Work Experience
 -----------
-2021 August -> 2024 April  Thundeful Games Programmer  
+2024 -> Current  Embark Studios UI/UX Game Programmer
+
+Working on ARC Raiders currently.
+
+2021 -> 2024  Thundeful Games Programmer  
 
 During my time at Thunderful Games I have worked on different projects at different phases in development, including porting Wavetale to PC and consoles such as PS4 and Nintendo Switch.
 
