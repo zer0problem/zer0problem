@@ -13,7 +13,7 @@ Relevant Work Experience
 
 Working on ARC Raiders currently.
 
-2021 -> 2024  Thundeful Games Programmer  
+2021 -> 2024  Thunderful Games Programmer  
 
 During my time at Thunderful Games I have worked on different projects at different phases in development, including porting Wavetale to PC and consoles such as PS4 and Nintendo Switch.
 
@@ -21,7 +21,7 @@ Relevant Education
 -----------
 2019 August -> 2022 April  TGA Game Programming  
 
-During my studies at [The Game Assembly](https://www.thegameassembly.com/) as a game programmer I were a part of 8 game projects. There I worked together with other students, game programmers, level designers and graphical artists, usually it's been in groups of about 11-13 people.  
+During my studies at [The Game Assembly](https://www.thegameassembly.com/) as a game programmer I was a part of 8 game projects. There I worked together with other students, game programmers, level designers and graphical artists, usually it's been in groups of about 11-13 people.  
 During the final year I've worked on the game engine used in project 6 and subsequent projects.
 
 for project 8 I added support for
@@ -52,7 +52,7 @@ for [project 6](/project/6/) it supported
 * projected decals <a class="link" href="/images/project6_decal_uneven_surface.gif">example<img class="preview" src="/images/project6_decal_uneven_surface.gif"></a>
 * VFX Node System <a class="link" href="/images/project6_effect_editor.png">example<img class="preview" src="/images/project6_effect_editor.png"></a> and <a class="link" href="/images/project6_effect_editor_result.gif">result<img class="preview" src="/images/project6_effect_editor_result.gif"></a>
 
-There's also been 5 earlier projects that you can look at here.  
+There's also been 5 earlier projects that you can look at here:  
 [First year projects](/old_projects/)  
 
 Skills
@@ -62,7 +62,7 @@ Tools: visual studio, vscode, ZeroBrane Studio
 Engines: Unreal Engine, Unity, Godot, Source 2 (dota 2 mods)  
 Graphics APIs: DirectX11, OpenGL  
 I have most recenly worked in Unity and C# but I am also comfortable with C++ and not afraid to learn new things.  
-Experience in other programming languages allow me to quickly pick up new languages if needed.  
+Experience in other programming languages allows me to quickly pick up new languages if needed.  
 Performance aware, knows how to use the cache and store data efficiently, when to move data and when you can skip moving it, both in small enclosed functions and when using and accessing larger systems.  
 Some experience with SIMD instructions for micro-optimizations.  
 
